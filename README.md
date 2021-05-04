@@ -1,15 +1,15 @@
-#    Portfolio
+> #    Portfolio
 
-This ismy Portfolio built with HTML & CSS
+> This ismy Portfolio built with HTML & CSS
 
-#  Live DEMO
-You can find the working example here: [ https://robaa2168.github.io/portfolio/ ]
+> #  Live DEMO
+> You can find the working example here: [ https://robaa2168.github.io/portfolio/ ]
 
-#### Installation
-All the external dependencies has been included using CDN. You only need to upload the HTML and CSS files to your host.
-and there you go
-## Usage
-Clone or fork the repository and start modifying the HTML & CSS files.
+> #### Installation
+> All the external dependencies has been included using CDN. You only need to upload the HTML and CSS files to your host.
+> and there you go
+> ## Usage
+> Clone or fork the repository and start modifying the HTML & CSS files.
 
 
 ## Deployment
